@@ -3,38 +3,42 @@
 
 ## 概述
 
-AAPT
+* AAPT
+
 修改AAPT，资源分区，用于Android插件化
-https://github.com/BaoBaoJianqiang/AAPT
+  - https://github.com/BaoBaoJianqiang/AAPT
 
 
-nuwa
+* nuwa
 纯java的 dex替换方案
 
 
-ZeusPlugin
+* ZeusPlugin
+
 iReader成熟易懂的Android插件补丁框架（可直接商业化的项目，日活千万级项目多年使用验证稳定）
 
 
-iReaderAndroid/PatchPluginForZeus
+* iReaderAndroid/PatchPluginForZeus
+
 ZeusPlugin插件框架热修复gradle插件源码
-https://github.com/iReaderAndroid/PatchPluginForZeus
+ - https://github.com/iReaderAndroid/PatchPluginForZeus
 
 
-iReaderAndroid/ZeusHotfix
-android-app热修复
-https://github.com/iReaderAndroid/ZeusHotfix
+* iReaderAndroid/ZeusHotfix android-app热修复
+  - https://github.com/iReaderAndroid/ZeusHotfix
 
 
-Apollo1.1
+* Apollo1.1
+
 占坑式activity替换。已经兼容到P
-git@github.com:BaoBaoJianqiang/Apollo1.1.git
+  - git@github.com:BaoBaoJianqiang/Apollo1.1.git
 
 
-tinker-dex-dump
+* tinker-dex-dump
+
 用来查看tinker生成的dexdiff格式内容工具,收录于微信tinker官方wiki
-https://github.com/LaurenceYang/tinker-dex-dump
-https://github.com/Tencent/tinker/blob/master/tinker-build/tinker-patch-lib/src/main/java/com/tencent/tinker/build/dexpatcher/DexPatchGenerator.java
+  - https://github.com/LaurenceYang/tinker-dex-dump
+  - https://github.com/Tencent/tinker/blob/master/tinker-build/tinker-patch-lib/src/main/java/com/tencent/tinker/build/dexpatcher/DexPatchGenerator.java
 
 
 
